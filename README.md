@@ -1,2 +1,0 @@
-# loginsimul
-Login Simulation
