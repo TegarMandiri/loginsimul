@@ -4,7 +4,7 @@
 
 //Login Simulation
 //Credit Tegar Mandiri 2019
-//Ver. 1.05
+//Ver. 1.50
 //Need to compile before run this program.
 //How to use  : -Download login.java file
                 -Compile the program, if using Windows can use Command Prompt (Javac) or Eclipse, or any software supported for 
